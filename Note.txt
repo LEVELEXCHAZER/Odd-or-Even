@@ -1,0 +1,13 @@
+DOM (document object model)
+---------------------------
+
+-Dom methods
+
+     1.document.getElementBy
+     2.document.getElementBy
+     3.document.getElementBy
+     4.document.getElementBy
+     5.document.getElementBy  
+     
+
+
